@@ -1,0 +1,6 @@
+MaritalStatusID,MarriedID,MaritalDesc
+0,0,Single
+1,1,Married
+2,0,Divorced
+3,0,Separated
+4,0,Widowed

@@ -1,0 +1,312 @@
+EmpID,PositionID,Salary,DeptID,ManagerID,EmploymentStatus,RecruitmentSource,DateofHire,DateofTermination,TermReason
+10026,1,62506,5,22,Active,LinkedIn,7/5/2011,,N/A-StillEmployed
+10084,2,104437,3,4,Voluntarily Terminated,Indeed,3/30/2015,6/16/2016,career change
+10196,3,64955,5,20,Voluntarily Terminated,LinkedIn,7/5/2011,9/24/2012,hours
+10088,4,64991,5,16,Active,Indeed,1/7/2008,,N/A-StillEmployed
+10069,5,50825,5,39,Voluntarily Terminated,Google Search,7/11/2011,9/6/2016,return to school
+10002,6,57568,5,11,Active,LinkedIn,1/9/2012,,N/A-StillEmployed
+10194,7,95660,4,10,Active,LinkedIn,11/10/2014,,N/A-StillEmployed
+10062,8,59365,5,19,Active,Employee Referral,9/30/2013,,N/A-StillEmployed
+10114,9,47837,5,12,Active,Diversity Job Fair,7/6/2009,,N/A-StillEmployed
+10250,10,50178,3,7,Active,Indeed,1/5/2015,,N/A-StillEmployed
+10252,11,54670,5,14,Voluntarily Terminated,Diversity Job Fair,1/10/2011,1/12/2017,Another position
+10242,12,47211,5,20,Voluntarily Terminated,Diversity Job Fair,4/2/2012,9/19/2016,unhappy
+10012,13,92328,3,4,Active,Diversity Job Fair,11/10/2014,,N/A-StillEmployed
+10265,14,58709,5,18,Active,Google Search,2/20/2012,,N/A-StillEmployed
+10066,15,52505,5,22,Voluntarily Terminated,On-line Web application,9/24/2012,4/6/2017,Another position
+10061,16,57834,5,18,Terminated for Cause,Google Search,2/21/2011,8/4/2017,attendance
+10023,17,70131,5,18,Active,Employee Referral,7/21/2016,,N/A-StillEmployed
+10055,18,59026,5,16,Active,Google Search,4/4/2011,,N/A-StillEmployed
+10245,19,110000,3,4,Terminated for Cause,Google Search,7/7/2014,9/12/2015,performance
+10277,20,53250,5,,Active,LinkedIn,7/8/2013,,N/A-StillEmployed
+10046,21,51044,5,11,Active,Google Search,4/2/2012,,N/A-StillEmployed
+10226,22,64919,5,19,Active,Indeed,8/19/2013,,N/A-StillEmployed
+10003,23,62910,5,12,Active,Indeed,7/7/2014,,N/A-StillEmployed
+10294,24,66441,5,22,Active,CareerBuilder,4/4/2011,,N/A-StillEmployed
+10267,25,57815,5,16,Voluntarily Terminated,Google Search,1/10/2011,4/4/2014,career change
+10199,26,103613,3,4,Terminated for Cause,LinkedIn,2/17/2014,2/19/2016,Learned that he is a gangster
+10081,27,106367,1,3,Active,Diversity Job Fair,2/16/2015,,N/A-StillEmployed
+10175,28,74312,5,2,Voluntarily Terminated,Indeed,9/30/2013,8/7/2014,retiring
+10177,29,53492,5,14,Voluntarily Terminated,Google Search,4/2/2012,6/15/2013,Another position
+10238,30,63000,1,1,Active,Diversity Job Fair,10/27/2008,,N/A-StillEmployed
+10184,,65288,5,,Active,Google Search,9/29/2014,,N/A-StillEmployed
+10203,,64375,5,20,Active,Diversity Job Fair,11/11/2013,,N/A-StillEmployed
+10188,,74326,6,17,Voluntarily Terminated,Google Search,8/15/2011,8/2/2014,Another position
+10107,,63763,5,11,Active,Employee Referral,3/5/2012,,N/A-StillEmployed
+10181,,62162,5,19,Active,Indeed,4/4/2011,,N/A-StillEmployed
+10150,,77692,4,5,Active,Google Search,8/15/2011,,N/A-StillEmployed
+10001,,72640,5,2,Active,Indeed,1/28/2016,,N/A-StillEmployed
+10085,,93396,4,10,Active,Indeed,11/11/2013,,N/A-StillEmployed
+10115,,52846,5,18,Active,LinkedIn,3/31/2014,,N/A-StillEmployed
+10082,,100031,3,4,Active,LinkedIn,6/30/2016,,N/A-StillEmployed
+10040,,71860,6,17,Active,Indeed,8/18/2014,,N/A-StillEmployed
+10067,,61656,5,22,Active,Google Search,9/29/2014,,N/A-StillEmployed
+10108,,110929,3,5,Active,Indeed,9/6/2016,,N/A-StillEmployed
+10210,,54237,5,16,Active,Indeed,5/12/2014,,N/A-StillEmployed
+10154,,60380,5,,Active,LinkedIn,7/8/2013,,N/A-StillEmployed
+10200,,66808,6,21,Active,Employee Referral,5/14/2012,,N/A-StillEmployed
+10240,,64786,5,11,Voluntarily Terminated,Indeed,6/27/2011,11/15/2015,relocation out of area
+10168,,64816,5,19,Active,Indeed,10/3/2011,,N/A-StillEmployed
+10220,,68678,3,6,Active,Indeed,9/5/2012,,N/A-StillEmployed
+10275,,64066,5,12,Voluntarily Terminated,Google Search,5/16/2011,1/7/2013,unhappy
+10269,,59369,5,14,Voluntarily Terminated,Indeed,8/30/2010,9/26/2011,career change
+10029,,50373,5,12,Active,Employee Referral,7/6/2016,,N/A-StillEmployed
+10261,,63108,5,14,Active,Employee Referral,7/8/2013,,N/A-StillEmployed
+10292,,59144,5,20,Terminated for Cause,LinkedIn,7/11/2011,9/23/2016,performance
+10282,,68051,5,2,Active,CareerBuilder,7/20/2010,,N/A-StillEmployed
+10019,,170500,5,2,Active,Indeed,1/5/2009,,N/A-StillEmployed
+10094,,63381,5,18,Active,Indeed,1/5/2015,,N/A-StillEmployed
+10193,,83552,3,4,Active,Indeed,3/30/2015,,N/A-StillEmployed
+10132,,56149,5,22,Active,LinkedIn,7/6/2016,,N/A-StillEmployed
+10083,,92329,3,7,Active,Employee Referral,11/10/2014,,N/A-StillEmployed
+10099,,65729,6,15,Active,Indeed,5/5/2014,,N/A-StillEmployed
+10212,,85028,3,7,Active,LinkedIn,11/10/2014,,N/A-StillEmployed
+10056,,57583,5,16,Active,Indeed,7/2/2012,,N/A-StillEmployed
+10143,,56294,5,20,Active,LinkedIn,11/7/2011,,N/A-StillEmployed
+10311,,56991,6,12,Active,Indeed,7/9/2018,,N/A-StillEmployed
+10070,,55722,5,39,Voluntarily Terminated,Indeed,5/16/2011,6/8/2016,unhappy
+10155,,101199,4,10,Active,CareerBuilder,1/9/2012,,N/A-StillEmployed
+10306,,61568,6,17,Active,Indeed,9/29/2014,,N/A-StillEmployed
+10100,,58275,5,18,Voluntarily Terminated,Google Search,4/4/2011,11/4/2015,more money
+10310,,53189,5,11,Active,Indeed,7/7/2014,,N/A-StillEmployed
+10197,,96820,3,13,Active,Indeed,2/15/2017,,N/A-StillEmployed
+10276,,51259,5,19,Active,Indeed,5/12/2014,,N/A-StillEmployed
+10304,,59231,6,17,Active,Website,2/20/2012,,N/A-StillEmployed
+10284,,61584,5,12,Active,Indeed,1/7/2013,,N/A-StillEmployed
+10207,,46335,5,14,Active,CareerBuilder,4/2/2012,,N/A-StillEmployed
+10133,,70621,3,7,Active,Employee Referral,1/5/2015,,N/A-StillEmployed
+10028,,138888,3,5,Active,Indeed,1/5/2014,,N/A-StillEmployed
+10006,,74241,6,21,Active,Indeed,1/10/2011,,N/A-StillEmployed
+10105,,75188,5,2,Active,Google Search,9/18/2014,,N/A-StillEmployed
+10211,,62514,5,19,Active,Google Search,4/26/2010,,N/A-StillEmployed
+10064,,60070,5,20,Voluntarily Terminated,Google Search,4/4/2011,6/6/2017,military
+10247,,48888,5,18,Active,LinkedIn,11/10/2014,,N/A-StillEmployed
+10235,,54285,5,18,Active,Employee Referral,3/31/2014,,N/A-StillEmployed
+10299,,56847,5,22,Active,Indeed,7/7/2014,,N/A-StillEmployed
+10280,,60340,5,22,Terminated for Cause,Google Search,4/2/2012,9/27/2018,attendance
+10296,,59124,5,16,Terminated for Cause,Google Search,2/17/2014,2/25/2018,"no-call, no-show"
+10290,,99280,4,10,Terminated for Cause,Indeed,5/2/2011,6/5/2013,attendance
+10263,,71776,5,16,Active,LinkedIn,7/7/2014,,N/A-StillEmployed
+10136,,65902,5,,Active,LinkedIn,2/17/2014,,N/A-StillEmployed
+10189,,57748,5,39,Voluntarily Terminated,Google Search,11/7/2011,5/17/2016,military
+10308,,64057,5,11,Active,Indeed,5/11/2015,,N/A-StillEmployed
+10309,,53366,3,7,Active,LinkedIn,3/30/2015,,N/A-StillEmployed
+10049,,58530,5,12,Active,Google Search,1/9/2012,,N/A-StillEmployed
+10093,,72609,5,11,Voluntarily Terminated,Google Search,5/16/2011,6/24/2013,hours
+10163,,55965,5,19,Voluntarily Terminated,Google Search,4/4/2011,1/9/2013,career change
+10305,,70187,6,21,Terminated for Cause,Employee Referral,9/29/2014,8/19/2018,Fatal attraction
+10015,,178000,3,5,Active,Indeed,4/15/2011,,N/A-StillEmployed
+10080,,99351,1,9,Active,Other,1/5/2009,,N/A-StillEmployed
+10258,,67251,6,21,Active,CareerBuilder,9/6/2011,,N/A-StillEmployed
+10273,,65707,3,6,Active,LinkedIn,5/1/2010,,N/A-StillEmployed
+10111,,52249,5,14,Active,Employee Referral,3/30/2015,,N/A-StillEmployed
+10257,,53171,5,18,Active,LinkedIn,5/16/2011,,N/A-StillEmployed
+10159,,51337,5,22,Active,LinkedIn,3/30/2015,,N/A-StillEmployed
+10122,,51505,5,16,Voluntarily Terminated,Diversity Job Fair,11/7/2011,11/15/2016,hours
+10142,,59370,6,17,Terminated for Cause,CareerBuilder,7/7/2014,9/5/2015,attendance
+10283,,54933,5,39,Voluntarily Terminated,Diversity Job Fair,4/2/2012,6/25/2015,military
+10018,,57815,5,11,Active,Indeed,9/29/2014,,N/A-StillEmployed
+10255,,61555,6,21,Active,Indeed,2/16/2015,,N/A-StillEmployed
+10246,,114800,3,4,Terminated for Cause,Indeed,2/16/2015,3/15/2015,"no-call, no-show"
+10228,,74679,3,7,Active,LinkedIn,3/30/2015,,N/A-StillEmployed
+10243,,53018,5,19,Active,Indeed,11/11/2013,,N/A-StillEmployed
+10031,,59892,5,12,Active,Diversity Job Fair,7/11/2011,,N/A-StillEmployed
+10300,,68898,5,12,Voluntarily Terminated,Diversity Job Fair,4/26/2010,5/30/2011,career change
+10101,,61242,3,7,Active,Employee Referral,1/5/2015,,N/A-StillEmployed
+10237,,66825,5,14,Active,LinkedIn,5/12/2014,,N/A-StillEmployed
+10051,,48285,5,14,Active,LinkedIn,7/2/2012,,N/A-StillEmployed
+10218,,66149,5,20,Active,Google Search,9/30/2013,,N/A-StillEmployed
+10256,,49256,5,20,Active,LinkedIn,8/19/2013,,N/A-StillEmployed
+10098,,62957,5,2,Active,Employee Referral,6/2/2015,,N/A-StillEmployed
+10059,,63813,5,18,Voluntarily Terminated,CareerBuilder,2/21/2011,1/11/2014,more money
+10234,,99020,3,13,Active,Indeed,4/20/2017,,N/A-StillEmployed
+10109,,71707,6,17,Voluntarily Terminated,LinkedIn,3/7/2012,10/31/2014,relocation out of area
+10125,,54828,5,22,Active,Google Search,11/28/2011,,N/A-StillEmployed
+10074,,64246,5,18,Active,LinkedIn,11/11/2013,,N/A-StillEmployed
+10097,,52177,5,39,Voluntarily Terminated,CareerBuilder,1/9/2012,12/15/2015,retiring
+10007,,62065,5,11,Active,CareerBuilder,5/12/2014,,N/A-StillEmployed
+10129,,46998,5,19,Active,Google Search,8/13/2012,,N/A-StillEmployed
+10075,,68099,5,18,Voluntarily Terminated,CareerBuilder,1/10/2011,6/18/2013,hours
+10167,,70545,6,17,Active,Indeed,8/18/2014,,N/A-StillEmployed
+10195,,63478,5,30,Voluntarily Terminated,Indeed,8/15/2011,4/7/2012,relocation out of area
+10112,,97999,3,4,Active,Indeed,3/30/2015,,N/A-StillEmployed
+10272,,180000,6,2,Active,LinkedIn,5/5/2014,,N/A-StillEmployed
+10182,,49920,1,1,Terminated for Cause,Indeed,2/16/2015,4/15/2015,"no-call, no-show"
+10248,,55425,5,19,Active,LinkedIn,2/20/2012,,N/A-StillEmployed
+10201,,69340,5,16,Active,LinkedIn,6/6/2016,,N/A-StillEmployed
+10214,,64995,5,,Active,Indeed,6/5/2015,,N/A-StillEmployed
+10160,,68182,5,11,Voluntarily Terminated,Google Search,2/21/2011,4/1/2013,unhappy
+10289,,83082,5,2,Voluntarily Terminated,Indeed,2/21/2011,9/24/2012,unhappy
+10139,,51908,5,12,Active,Indeed,8/19/2013,,N/A-StillEmployed
+10227,,61242,5,14,Active,LinkedIn,11/5/2012,,N/A-StillEmployed
+10236,,45069,5,20,Active,Employee Referral,9/30/2013,,N/A-StillEmployed
+10009,,60724,5,19,Active,LinkedIn,7/5/2011,,N/A-StillEmployed
+10060,,60436,5,18,Active,LinkedIn,1/6/2014,,N/A-StillEmployed
+10034,,46837,5,22,Voluntarily Terminated,CareerBuilder,11/7/2011,4/29/2018,more money
+10156,,105700,3,4,Active,Indeed,1/5/2015,,N/A-StillEmployed
+10036,,63322,5,12,Active,LinkedIn,7/7/2014,,N/A-StillEmployed
+10138,,61154,5,16,Voluntarily Terminated,CareerBuilder,1/10/2011,4/1/2016,unhappy
+10244,,68999,6,15,Voluntarily Terminated,Google Search,11/7/2011,4/24/2014,maternity leave - did not return
+10192,,50482,5,22,Active,Indeed,9/30/2013,,N/A-StillEmployed
+10231,,65310,6,21,Active,Indeed,8/19/2013,,N/A-StillEmployed
+10089,,250000,2,9,Active,Indeed,7/2/2012,,N/A-StillEmployed
+10166,,54005,5,39,Voluntarily Terminated,Google Search,9/26/2011,6/4/2015,more money
+10170,,45433,5,11,Voluntarily Terminated,Google Search,9/26/2011,1/9/2014,more money
+10208,,46654,5,19,Active,LinkedIn,2/17/2014,,N/A-StillEmployed
+10176,,63973,5,12,Active,Indeed,1/10/2011,,N/A-StillEmployed
+10165,,71339,6,17,Active,Diversity Job Fair,3/7/2011,,N/A-StillEmployed
+10113,,93206,3,7,Active,Employee Referral,11/10/2014,,N/A-StillEmployed
+10092,,82758,5,2,Terminated for Cause,Employee Referral,1/10/2011,12/12/2015,attendance
+10106,,66074,5,14,Voluntarily Terminated,Indeed,1/7/2013,3/31/2014,Another position
+10052,,46120,5,14,Active,LinkedIn,7/9/2012,,N/A-StillEmployed
+10038,,64520,1,1,Active,Website,1/6/2014,,N/A-StillEmployed
+10249,,61962,5,20,Voluntarily Terminated,Google Search,4/2/2012,4/15/2013,more money
+10232,,81584,3,13,Active,Indeed,10/2/2016,,N/A-StillEmployed
+10087,,63676,5,20,Voluntarily Terminated,CareerBuilder,9/26/2011,8/19/2018,return to school
+10134,,93046,1,2,Active,CareerBuilder,1/5/2016,,N/A-StillEmployed
+10251,,64738,5,16,Active,Google Search,5/14/2012,,N/A-StillEmployed
+10103,,70468,6,17,Active,Website,4/30/2012,,N/A-StillEmployed
+10017,,77915,5,2,Active,Website,9/30/2013,,N/A-StillEmployed
+10186,,52624,5,22,Voluntarily Terminated,Indeed,7/5/2011,9/26/2018,unhappy
+10137,,63450,5,18,Active,LinkedIn,7/8/2013,,N/A-StillEmployed
+10008,,51777,3,6,Active,Diversity Job Fair,1/21/2011,,N/A-StillEmployed
+10096,,67237,5,22,Voluntarily Terminated,LinkedIn,7/8/2013,9/15/2016,more money
+10035,,73330,5,16,Active,Indeed,8/19/2013,,N/A-StillEmployed
+10057,,52057,5,16,Active,Website,2/16/2015,,N/A-StillEmployed
+10004,,47434,5,39,Voluntarily Terminated,Diversity Job Fair,11/7/2011,11/14/2015,Another position
+10191,,52788,5,11,Voluntarily Terminated,Indeed,9/24/2012,9/26/2017,hours
+10219,,45395,5,19,Active,LinkedIn,1/6/2014,,N/A-StillEmployed
+10077,,62385,5,,Active,LinkedIn,5/11/2016,,N/A-StillEmployed
+10073,,68407,5,11,Voluntarily Terminated,LinkedIn,7/5/2011,8/19/2012,Another position
+10279,,61349,5,12,Active,LinkedIn,11/11/2013,,N/A-StillEmployed
+10110,,105688,4,10,Active,Google Search,11/11/2013,,N/A-StillEmployed
+10053,,54132,5,14,Active,Indeed,5/31/2011,,N/A-StillEmployed
+10076,,55315,5,19,Active,LinkedIn,3/30/2015,,N/A-StillEmployed
+10145,,62810,5,20,Active,CareerBuilder,1/7/2013,,N/A-StillEmployed
+10202,,63291,6,21,Active,Website,7/6/2016,,N/A-StillEmployed
+10128,,62659,5,18,Voluntarily Terminated,Diversity Job Fair,4/2/2012,11/11/2016,Another position
+10068,,55688,5,22,Active,CareerBuilder,3/30/2015,,N/A-StillEmployed
+10116,,83667,5,2,Active,Indeed,8/16/2012,,N/A-StillEmployed
+10298,,55800,5,12,Voluntarily Terminated,LinkedIn,8/15/2011,9/4/2014,unhappy
+10213,,58207,5,14,Active,LinkedIn,11/7/2011,,N/A-StillEmployed
+10288,,157000,3,5,Active,Diversity Job Fair,2/15/2012,,N/A-StillEmployed
+10025,,72460,5,20,Active,Indeed,5/13/2013,,N/A-StillEmployed
+10223,,72106,5,18,Active,Diversity Job Fair,1/9/2012,,N/A-StillEmployed
+10151,,52599,3,7,Active,CareerBuilder,2/16/2015,,N/A-StillEmployed
+10254,,63430,5,16,Active,LinkedIn,4/1/2013,,N/A-StillEmployed
+10120,,74417,5,22,Active,LinkedIn,5/13/2013,,N/A-StillEmployed
+10216,,57575,5,20,Active,LinkedIn,7/8/2013,,N/A-StillEmployed
+10079,,87921,3,13,Active,Indeed,2/10/2017,,N/A-StillEmployed
+10215,,50470,5,39,Voluntarily Terminated,Diversity Job Fair,9/26/2011,4/4/2014,return to school
+10185,,46664,5,11,Voluntarily Terminated,Employee Referral,4/1/2013,5/25/2016,more money
+10063,,48495,5,19,Active,LinkedIn,5/12/2014,,N/A-StillEmployed
+10037,,52984,5,12,Active,Diversity Job Fair,4/1/2013,,N/A-StillEmployed
+10042,,63695,6,21,Active,Indeed,7/8/2013,,N/A-StillEmployed
+10206,,62061,5,14,Active,LinkedIn,7/8/2013,,N/A-StillEmployed
+10104,,66738,5,16,Active,Indeed,11/10/2014,,N/A-StillEmployed
+10303,,52674,5,20,Terminated for Cause,LinkedIn,3/31/2014,5/1/2018,performance
+10078,,71966,5,39,Voluntarily Terminated,LinkedIn,5/14/2012,8/19/2013,unhappy
+10121,,63051,6,21,Active,Indeed,9/30/2013,,N/A-StillEmployed
+10021,,47414,5,18,Active,LinkedIn,9/30/2013,,N/A-StillEmployed
+10281,,53060,5,22,Active,LinkedIn,2/17/2014,,N/A-StillEmployed
+10041,,68829,6,17,Active,Website,1/5/2015,,N/A-StillEmployed
+10148,,63515,5,16,Voluntarily Terminated,Google Search,2/7/2011,1/12/2014,Another position
+10005,,108987,4,10,Voluntarily Terminated,Diversity Job Fair,11/7/2011,9/7/2015,Another position
+10259,,93093,3,4,Voluntarily Terminated,Employee Referral,12/1/2014,5/1/2016,performance
+10286,,53564,5,39,Voluntarily Terminated,Google Search,1/10/2011,12/28/2017,career change
+10297,,60270,5,11,Voluntarily Terminated,CareerBuilder,7/5/2011,9/15/2015,unhappy
+10171,,45998,5,11,Voluntarily Terminated,LinkedIn,5/16/2011,10/25/2015,medical issues
+10032,,57954,5,19,Voluntarily Terminated,Indeed,5/16/2011,2/4/2013,more money
+10130,,74669,5,2,Voluntarily Terminated,Indeed,10/25/2010,5/18/2016,Another position
+10217,,74226,5,12,Active,LinkedIn,4/2/2012,,N/A-StillEmployed
+10016,,93554,3,4,Active,Employee Referral,11/10/2014,,N/A-StillEmployed
+10050,,64724,5,12,Voluntarily Terminated,Google Search,7/5/2011,11/30/2012,more money
+10164,,47001,5,14,Active,Google Search,11/5/2007,,N/A-StillEmployed
+10124,,61844,6,21,Active,Website,1/9/2012,,N/A-StillEmployed
+10187,,46799,5,20,Voluntarily Terminated,Google Search,5/16/2011,6/4/2018,Another position
+10225,,59472,5,18,Active,Employee Referral,1/6/2014,,N/A-StillEmployed
+10262,,46430,5,20,Voluntarily Terminated,Indeed,9/24/2012,6/18/2013,unhappy
+10131,,83363,1,2,Voluntarily Terminated,Diversity Job Fair,2/21/2011,8/15/2015,career change
+10239,,95920,3,13,Active,Indeed,10/2/2016,,N/A-StillEmployed
+10152,,61729,5,22,Voluntarily Terminated,Indeed,9/26/2011,4/7/2018,more money
+10140,,61809,6,17,Active,CareerBuilder,5/12/2014,,N/A-StillEmployed
+10058,,45115,5,16,Voluntarily Terminated,LinkedIn,5/16/2011,1/15/2016,retiring
+10011,,46738,5,,Active,Google Search,11/28/2011,,N/A-StillEmployed
+10230,,64971,5,14,Voluntarily Terminated,Google Search,9/26/2011,10/22/2011,return to school
+10224,,55578,5,20,Voluntarily Terminated,Indeed,7/5/2011,2/8/2012,Another position
+10047,,50428,5,11,Voluntarily Terminated,Indeed,1/10/2011,1/26/2016,attendance
+10285,,61422,5,19,Terminated for Cause,Indeed,1/10/2011,5/17/2016,attendance
+10020,,63353,5,12,Active,Employee Referral,7/8/2013,,N/A-StillEmployed
+10162,,89883,3,4,Active,Employee Referral,2/16/2015,,N/A-StillEmployed
+10149,,120000,3,4,Voluntarily Terminated,LinkedIn,1/5/2015,11/10/2018,Another position
+10086,,150290,3,13,Active,Indeed,1/7/2017,,N/A-StillEmployed
+10054,,60627,5,14,Active,Website,1/6/2014,,N/A-StillEmployed
+10065,,53180,5,20,Voluntarily Terminated,Google Search,4/4/2011,8/13/2018,Another position
+10198,,140920,3,5,Active,Indeed,1/20/2013,,N/A-StillEmployed
+10222,,148999,3,5,Voluntarily Terminated,Diversity Job Fair,1/9/2012,11/4/2015,hours
+10126,,86214,4,10,Active,Indeed,11/5/2012,,N/A-StillEmployed
+10295,,47750,5,18,Active,Diversity Job Fair,7/4/2016,,N/A-StillEmployed
+10260,,46428,5,22,Voluntarily Terminated,Google Search,1/5/2009,7/30/2018,relocation out of area
+10233,,57975,5,18,Active,CareerBuilder,8/30/2010,,N/A-StillEmployed
+10229,,88527,3,4,Voluntarily Terminated,LinkedIn,1/5/2015,10/31/2015,hours
+10169,,56147,5,16,Active,LinkedIn,9/29/2014,,N/A-StillEmployed
+10071,,50923,5,,Active,Google Search,9/30/2013,,N/A-StillEmployed
+10179,,50750,3,7,Active,LinkedIn,9/30/2014,,N/A-StillEmployed
+10091,,52087,5,11,Active,LinkedIn,8/19/2013,,N/A-StillEmployed
+10178,,87826,3,4,Active,Employee Referral,1/5/2015,,N/A-StillEmployed
+10039,,51920,1,1,Active,Website,5/1/2015,,N/A-StillEmployed
+10095,,63878,5,22,Voluntarily Terminated,CareerBuilder,10/26/2009,4/8/2015,maternity leave - did not return
+10027,,60656,5,16,Active,Indeed,9/29/2014,,N/A-StillEmployed
+10291,,72992,6,15,Active,Diversity Job Fair,5/18/2014,,N/A-StillEmployed
+10153,,55000,1,1,Voluntarily Terminated,Diversity Job Fair,9/26/2011,9/25/2013,career change
+10157,,58939,5,19,Active,Employee Referral,11/11/2013,,N/A-StillEmployed
+10119,,66593,3,6,Active,LinkedIn,6/10/2011,,N/A-StillEmployed
+10180,,87565,3,7,Active,LinkedIn,6/30/2016,,N/A-StillEmployed
+10302,,64021,5,12,Active,Indeed,2/20/2012,,N/A-StillEmployed
+10090,,65714,5,2,Active,LinkedIn,10/2/2012,,N/A-StillEmployed
+10030,,62425,5,14,Voluntarily Terminated,LinkedIn,5/13/2013,6/29/2015,unhappy
+10278,,47961,5,20,Active,Google Search,1/10/2011,,N/A-StillEmployed
+10307,,58273,6,21,Active,Website,5/12/2014,,N/A-StillEmployed
+10147,,63003,1,1,Active,Indeed,9/29/2014,,N/A-StillEmployed
+10266,,61355,5,18,Active,LinkedIn,2/17/2014,,N/A-StillEmployed
+10241,,60120,6,17,Active,Indeed,9/27/2010,,N/A-StillEmployed
+10158,,63682,5,2,Active,Indeed,1/8/2009,,N/A-StillEmployed
+10117,,63025,5,22,Active,Google Search,1/5/2015,,N/A-StillEmployed
+10209,,59238,5,16,Active,Indeed,5/14/2012,,N/A-StillEmployed
+10024,,92989,4,10,Active,LinkedIn,7/7/2014,,N/A-StillEmployed
+10173,,90100,3,13,Active,Indeed,4/20/2017,,N/A-StillEmployed
+10221,,60754,5,39,Voluntarily Terminated,Diversity Job Fair,4/27/2009,4/1/2013,Another position
+10146,,72202,5,16,Voluntarily Terminated,Google Search,5/16/2011,7/8/2017,Another position
+10161,,58370,6,21,Active,Indeed,9/29/2014,,N/A-StillEmployed
+10141,,48413,5,11,Voluntarily Terminated,Indeed,7/5/2011,9/5/2016,return to school
+10268,,67176,5,39,Voluntarily Terminated,Other,6/25/2007,8/30/2010,military
+10123,,56339,5,12,Active,Indeed,2/18/2013,,N/A-StillEmployed
+10013,,64397,6,21,Active,Indeed,1/9/2006,,N/A-StillEmployed
+10287,,63025,5,14,Active,LinkedIn,2/17/2014,,N/A-StillEmployed
+10044,,75281,3,7,Voluntarily Terminated,CareerBuilder,1/5/2015,2/12/2016,medical issues
+10102,,100416,4,10,Voluntarily Terminated,Diversity Job Fair,2/18/2013,4/15/2018,medical issues
+10270,,74813,5,11,Voluntarily Terminated,LinkedIn,1/10/2011,7/2/2014,unhappy
+10045,,76029,3,7,Active,Employee Referral,3/30/2015,,N/A-StillEmployed
+10205,,57859,6,17,Active,Indeed,7/5/2011,,N/A-StillEmployed
+10014,,58523,5,20,Voluntarily Terminated,LinkedIn,8/13/2012,2/5/2016,maternity leave - did not return
+10144,,88976,5,2,Active,Employee Referral,8/1/2011,,N/A-StillEmployed
+10253,,55875,6,17,Active,Website,3/5/2012,,N/A-StillEmployed
+10118,,113999,3,4,Terminated for Cause,Employee Referral,2/16/2015,2/22/2017,"no-call, no-show"
+10022,,49773,5,18,Terminated for Cause,Google Search,9/26/2011,2/8/2016,gross misconduct
+10183,,62068,5,22,Active,LinkedIn,7/5/2015,,N/A-StillEmployed
+10190,,66541,5,19,Active,Employee Referral,8/18/2014,,N/A-StillEmployed
+10274,,80512,5,2,Voluntarily Terminated,Diversity Job Fair,9/26/2011,1/2/2012,Another position
+10293,,50274,5,16,Voluntarily Terminated,CareerBuilder,8/13/2012,9/1/2015,career change
+10172,,84903,3,13,Active,Indeed,2/15/2017,,N/A-StillEmployed
+10127,,107226,3,7,Active,Employee Referral,3/30/2015,,N/A-StillEmployed
+10072,,58371,5,39,Voluntarily Terminated,LinkedIn,1/10/2011,5/15/2014,hours
+10048,,55140,5,11,Voluntarily Terminated,Website,5/16/2011,9/7/2015,unhappy
+10204,,58062,5,19,Voluntarily Terminated,Google Search,1/10/2011,5/14/2012,Another position
+10264,,59728,5,19,Voluntarily Terminated,Diversity Job Fair,1/9/2012,6/27/2015,relocation out of area
+10033,,70507,5,12,Voluntarily Terminated,LinkedIn,1/7/2013,2/21/2016,retiring
+10174,,60446,5,14,Active,LinkedIn,9/29/2014,,N/A-StillEmployed
+10135,,65893,5,20,Active,LinkedIn,7/7/2014,,N/A-StillEmployed
+10301,,48513,5,12,Voluntarily Terminated,Google Search,9/2/2008,9/29/2015,Another position
+10010,,220450,3,2,Active,Employee Referral,4/10/2010,,N/A-StillEmployed
+10043,,89292,3,4,Active,Employee Referral,3/30/2015,,N/A-StillEmployed
+10271,,45046,5,14,Active,LinkedIn,9/29/2014,,N/A-StillEmployed
