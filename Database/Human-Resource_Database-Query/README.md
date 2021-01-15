@@ -2,4 +2,4 @@
  
 Creating a relational database using SQLite and conducting queries for real-live applications.
 
-![HR](/images/hr_er.png)
+![HR_ER](/images/hr_er.png)
